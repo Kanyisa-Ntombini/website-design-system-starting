@@ -1,0 +1,33 @@
+/* Fonts */
+.bold {
+  font-weight: bold;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.font-box {
+  width: 250px;
+  height: 200px;
+  display: inline-block;
+  background-color: rgb(201, 198, 198);
+  margin: 20px;
+  border: 1px solid black;
+}
+
+#times-new-roman {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#verdana {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.float-blocks {
+  display: inline-block;
+}

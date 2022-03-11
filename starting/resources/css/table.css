@@ -1,0 +1,21 @@
+table {
+  margin: 0 20px;
+  border: 2px solid plum;
+  width: 300px;
+  height: 250px;
+}
+
+thead {
+  background-color: plum;
+}
+
+th, td {
+  border: 1px solid black;
+  border: 2px solid plum;
+}
+
+th, tr {
+  text-align: center;
+  font-size: 24px;
+  padding: 5px;
+}
