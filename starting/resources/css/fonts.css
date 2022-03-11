@@ -7,9 +7,13 @@
   font-style: italic;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .font-box {
   width: 250px;
-  height: 200px;
+  height: 220px;
   display: inline-block;
   background-color: rgb(201, 198, 198);
   margin: 20px;
@@ -26,6 +30,18 @@
 
 #verdana {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#raleway {
+  font-family: 'Raleway', sans-serif;
+}
+
+#merriweather {
+  font-family: 'Merriweather', serif;
+}
+
+#indie-flower {
+  font-family: 'Indie Flower', cursive;
 }
 
 .float-blocks {
